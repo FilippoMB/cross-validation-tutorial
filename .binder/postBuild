@@ -1,0 +1,3 @@
+pip install voila voila-reveal
+jupyter server extension enable voila --sys-prefix
+jupyter nbextension enable voila --sys-prefix
