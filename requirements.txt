@@ -3,3 +3,5 @@ rise
 scikit-learn
 seaborn
 tqdm
+voila
+voila-reveal
