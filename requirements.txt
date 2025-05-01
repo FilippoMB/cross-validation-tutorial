@@ -1,0 +1,5 @@
+jupyter
+rise
+scikit-learn
+seaborn
+tqdm
